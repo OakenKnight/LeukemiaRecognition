@@ -7,7 +7,7 @@ computer vision technique will be performed through the OpenCV library and the P
 and it will be determined whether patient has leukemia or not.
 
 
-###Libraries
+### Libraries
 
 As part of this project, the following libraries are being used with Python 3.6:
 * numpy
