@@ -1,0 +1,2 @@
+img-13.jpg;65;6;TRUE
+img-10.jpg;71;2;FALSE
