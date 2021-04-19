@@ -12,4 +12,4 @@ and it will be determined whether patient has leukemia or not.
 As part of this project, the following libraries are being used with Python 3.6:
 * numpy
 * scipy
-* openCV version 3.x.y (any version starting with 3)
+* openCV version 3.x.y
