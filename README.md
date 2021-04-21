@@ -13,9 +13,9 @@ To run the solution on your machine and check how accurate it is, you need to do
 3. To evaluate accuracy run the evaluate.py file. This file will load the result.csv previously generated and calculate the accuracy. The output of this file is just a number that shows the percentage of accuracy of the current solution.
 
 
-###Libraries
+### Libraries
 
 As part of this project, the following libraries are being used with Python 3.6:
 * numpy
 * scipy
-* openCV version 3.x.y (any version starting with 3)
+* openCV version 3.x.y
